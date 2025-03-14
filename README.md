@@ -14,3 +14,7 @@ GpuMiner is a lightweight and efficient GPU mining software designed specificall
 ✅ NVIDIA drivers properly installed
 ✅ Linux environment (tested on Ubuntu)
 ✅ Internet connection for pool mining
+💡 Notes
+# ⚠️ Monitor GPU temperatures to avoid overheating.
+✅ Mining results and earnings will be reflected in your pool dashboard after successful share submissions.
+💰 Payouts depend on pool's payout policy (check pool's minimum threshold).

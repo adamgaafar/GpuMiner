@@ -41,14 +41,6 @@ GpuMiner is a lightweight and efficient GPU mining software designed specificall
      - **Password** (usually set to `x` by default or as specified by the pool)
 
 #### 3. Get the Server Address and Port
-
-   - Go to [Kaspa Pool](https://kaspa-pool.org/#/start_mining).
-   - Under **Start Mining**, you’ll see a sample mining configuration with details like:
-     
-     ```bash
-     GpuMiner.exe --algo kheavyhash --server <POOL_ADDRESS> --port <POOL_PORT> --user kaspa:<YOUR_WALLET_ADDRESS> --pass x
-     ```
-
      **Example:**
      - **Server**: `eu1.kaspa-pool.org`
      - **Port**: `5555`

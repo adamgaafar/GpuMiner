@@ -11,12 +11,12 @@ GpuMiner is a lightweight and efficient GPU mining software designed specificall
 🌐 Multi-Pool Support — mine on any Stratum-compatible Kaspa pool.
 ⚡ Low Resource Usage — lightweight and efficient for maximum mining performance.
 
-## Requirements
+# 🚧 Requirements
+✅ NVIDIA GPU (Recommended: GTX series and above, but supports low-end like MX series for learning purposes)
+✅ NVIDIA drivers properly installed
+✅ Linux environment (tested on Ubuntu) Or Windows environment
+✅ Internet connection for pool mining
 
-- **NVIDIA GPU** (Recommended: GTX series and above, but supports low-end like MX series for learning purposes)
-- **NVIDIA drivers** properly installed
-- **Windows environment** (tested on Windows 10/11)
-- **Internet connection** for pool mining
 
 ## Usage
 
@@ -61,11 +61,6 @@ GpuMiner is a lightweight and efficient GPU mining software designed specificall
    Example:
     Run the exe or appimage(Linux) enter your wallet address and server pool
 
-# 🚧 Requirements
-✅ NVIDIA GPU (Recommended: GTX series and above, but supports low-end like MX series for learning purposes)
-✅ NVIDIA drivers properly installed
-✅ Linux environment (tested on Ubuntu)
-✅ Internet connection for pool mining
 
 💡 Notes
 # ⚠️ Monitor GPU temperatures to avoid overheating.

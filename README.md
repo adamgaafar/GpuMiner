@@ -58,3 +58,34 @@ GpuMiner is a lightweight and efficient GPU mining software designed specificall
 # ⚠️ Monitor GPU temperatures to avoid overheating.
 ✅ Mining results and earnings will be reflected in your pool dashboard after successful share submissions.
 💰 Payouts depend on pool's payout policy (check pool's minimum threshold).
+
+## 🐧 How to Set Up GpuMiner on Linux (GUI Version)
+
+## 1. Download and Extract
+Download distlinux.zip from the Releases section and extract it:
+
+unzip distlinux.zip
+cd GpuMiner
+
+
+## 2. Make the App Executable
+Give the AppImage permission to run:
+
+chmod +x GpuMiner.AppImage
+
+
+## 3. Run GpuMiner
+Start the miner by simply launching the AppImage:
+
+./GpuMiner.AppImage
+
+
+## 4. Use the GUI
+
+The graphical interface will launch automatically.
+
+Enter your Kaspa wallet address and mining pool server details.
+
+Click Start Mining to begin.
+
+
